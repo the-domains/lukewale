@@ -1,20 +1,4 @@
-name: lukewale
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.47009
-title: Luke Wale
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#07050c'
@@ -22,8 +6,13 @@ color:
     - '#2d58a9'
     - '#3cb3d9'
     - '#95ceed'
-  brandStrength: 0
+  brandStrength: 0.493421
   lightness: 0.625
-  saturation: 0.375
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0.370065
+  saturation: 0.424342
+cta: {}
+layout_spectrum: 0.864309
+name: lukewale
+opengraph: {}
 purpose: []
+typography_spectrum: 0.47009
