@@ -1,7 +1,7 @@
 name: lukewale
 favicon: null
-layout_spectrum: 0.25694
-typography_spectrum: 0.2463
+layout_spectrum: 1
+typography_spectrum: 0.47009
 title: Luke Wale
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#2d58a9'
     - '#3cb3d9'
     - '#95ceed'
-  brandStrength: 0.1875
-  lightness: 0.3319584175478667
-  saturation: 0.8731354984920472
-  rhythmicContrast: 0.6722131122369319
+  brandStrength: 0
+  lightness: 0.625
+  saturation: 0.375
+  rhythmicContrast: 0.25
 purpose: []
