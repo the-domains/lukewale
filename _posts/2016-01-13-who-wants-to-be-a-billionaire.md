@@ -1,25 +1,24 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-13T03:19:52.615Z'
-dateModified: '2016-01-13T03:19:43.443Z'
+datePublished: '2016-01-13T03:21:29.091Z'
+dateModified: '2016-01-13T03:21:25.109Z'
 title: Who wants to be a billionaire?
 author: []
+sourcePath: _posts/2016-01-13-who-wants-to-be-a-billionaire.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-13-who-wants-to-be-a-billionaire.md
-published: true
-url: who-wants-to-be-a-billionaire/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Who wants to be a billionaire?
