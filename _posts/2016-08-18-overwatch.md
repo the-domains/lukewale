@@ -8,8 +8,8 @@ keywords: []
 description: >-
   I play Overwatch on Xbox One. Reaper, Winston, 76, Ana… So many fun heros to
   play.
-datePublished: '2016-08-18T12:07:23.278Z'
-dateModified: '2016-08-18T12:06:47.600Z'
+datePublished: '2016-08-18T12:18:36.784Z'
+dateModified: '2016-08-18T12:07:30.510Z'
 at__type: Article
 at__context: 'http://schema.org'
 title: Overwatch
