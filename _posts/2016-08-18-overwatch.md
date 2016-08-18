@@ -8,8 +8,8 @@ keywords: []
 description: >-
   I play Overwatch on Xbox One. Reaper, Winston, 76, Ana… So many fun heros to
   play.
-datePublished: '2016-08-18T12:18:36.784Z'
-dateModified: '2016-08-18T12:07:30.510Z'
+datePublished: '2016-08-18T12:24:37.769Z'
+dateModified: '2016-08-18T12:23:00.884Z'
 at__type: Article
 at__context: 'http://schema.org'
 title: Overwatch
@@ -26,3 +26,5 @@ _type: Blurb
 
 I play Overwatch on Xbox One. Reaper, Winston, 76, Ana... So many fun heros to play.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ad51b28-ad19-4f3c-9a12-08299f6507f2.png)
+
+Recently I've been decimating people as Reaper but I like the fact that there are so many heros to choose from. Depending on my mood or what my team needs, I can change up heros and experience a completely different play style.
