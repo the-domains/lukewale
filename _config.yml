@@ -1,7 +1,7 @@
 name: Luke Wale
 favicon: null
-layout_spectrum: 0.21377
-typography_spectrum: 0.20897
+layout_spectrum: 0.1800805451348424
+typography_spectrum: 0.7770453547127545
 title: Luke Wale
 cta:
   domain: null
@@ -17,13 +17,15 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#07050c'
-    - '#f7fcff'
-    - '#2d58a9'
-    - '#3cb3d9'
-    - '#95ceed'
-  brandStrength: 0.493421
-  lightness: 0.625
-  saturation: 0.424342
-  rhythmicContrast: 0.370065
+    - '#2B3A42'
+    - '#3F5765'
+    - '#BDD4DE'
+    - '#EFEFEF'
+    - '#FF530D'
+  brandStrength: 0.055026419227942824
+  lightness: 0.28196542779915035
+  saturation: 0.6079844017513096
+  rhythmicContrast: 0.798149551730603
 purpose: []
+coverPrefs:
+  filter: false
